@@ -1,0 +1,51 @@
+.hero {
+    background: #2e2f42;
+}
+
+.hero-title {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07143;
+    line-height: 60px;
+
+    text-align: center;
+    color: #fff;
+}
+
+.btn {
+    font-family: "Roboto", sans-serif;
+    color: #fff;
+    background: #4d5ae5;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+
+    padding: 16px 32px;
+    text-align: center;
+    width: 169px;
+    max-width: 169px;
+    height: 56px;
+    /* zaboronyae tekstu perenosytysya */
+    white-space: nowrap;
+}
+
+.btn:hover {
+    font-family: "Roboto", sans-serif;
+    color: #fff;
+    background: #404bbf;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+
+    padding: 16px 32px;
+    text-align: center;
+    width: 169px;
+    max-width: 169px;
+    height: 56px;
+    /* zaboronyae tekstu perenosytysya */
+    white-space: nowrap;
+}

@@ -1,0 +1,30 @@
+.team {background: #f4f4fd;}
+
+.team-headline {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+
+    text-align: center;
+    color: #2e2f42;}
+
+.team-list {}
+
+.team-li {box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
+    background: #fff;}
+
+.team-link {}
+
+.team-img {}
+
+.team-name {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+  
+    text-align: center;
+    color: #2e2f42;}
+
+.team-abzats {
+    text-align: center;
+   }
