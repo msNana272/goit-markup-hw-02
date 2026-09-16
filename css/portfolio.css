@@ -1,9 +1,10 @@
 .portfolio {}
 
-.container {padding: 0 15px;
-    width: 1158px;
-    height: 1000px;
-    max-width: 1158px;}
+.container {/* padding: 0 15px;
+width: 1158px;
+height: 1000px;
+max-width: 1158px; */}
+
 
 .portfolio-headline {
     font-weight: 700;

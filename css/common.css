@@ -7,12 +7,14 @@ body {
         letter-spacing: 0.02em;
         font-weight: 400;
         color: #434455;
-        padding: 188px 0;
-            width: 1440px;
-            height: 600px;}
+        }
 
+        /*  */
 ol,
 ul {list-style-type: none;}
+
+
+
 
 a {
     text-decoration: none;
@@ -44,6 +46,7 @@ address {font-style: normal;}
 .contact-address-list {}
 
 .contact-address-item {}
+
 .contacts-link:hover {color: #404bbf; cursor: default;}
 
 .sr-only {
