@@ -47,7 +47,8 @@ address {font-style: normal;}
 
 .contact-address-item {}
 
-.contacts-link:hover {color: #404bbf; cursor: default;}
+.contacts-link{font-weight: 400; color: #434455;}
+.contacts-link:hover, .contacts-link:focus {color: #404bbf;}
 
 .sr-only {
     position: absolute;
