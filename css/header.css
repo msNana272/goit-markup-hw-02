@@ -11,15 +11,15 @@
 .nav-anchor {}
 
 
-.nav-anchor-link {font-weight: 500;
-    color: #2e2f42;}
-.nav-anchor-link:hover {
+.nav-anchor-link {font-weight: 400;
+    color: #434455;}
+.nav-anchor-link:hover, .nav-anchor-link:focus {
     color: #404bbf;
     
 }
 
 
-.line:active, line:focus {text-decoration-color: #4d5ae5;
+.line:active, .line:focus {text-decoration-color: #4d5ae5;
     text-decoration: underline;
     
     color: #404bbf; }
